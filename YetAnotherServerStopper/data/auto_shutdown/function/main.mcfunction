@@ -36,7 +36,7 @@ execute if score shutdown_progress YetAnotherEmptyServerStopper matches 0 if sco
 
 
 # Schedule to run this command again every time it has been parsed. The amount of time delay is the time between each check
-schedule function auto_shutdown:main 10s
+schedule function auto_shutdown:main 300s
 
 
 # Notes:
