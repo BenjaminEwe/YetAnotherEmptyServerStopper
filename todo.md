@@ -1,0 +1,4 @@
+- Variable support for time to close the server
+- Variable for amount of times to check before closing
+- Test more versions of minecraft and add as supported versions in mcpack
+- Upload to Modrinth, planetminecraft etc.

@@ -1,0 +1,3 @@
+say Stopping the server...
+scoreboard objectives remove YetAnotherEmptyServerStopper
+stop

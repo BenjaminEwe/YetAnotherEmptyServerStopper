@@ -1,0 +1,6 @@
+This datapack needs extra permissions because it closes the server. To give datapacks extra permissions:
+
+1. Go to server.properties file
+2. Set function-permission-level=4
+3. Restart your server
+4. Be happy!
