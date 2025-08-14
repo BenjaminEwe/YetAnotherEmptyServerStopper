@@ -22,3 +22,4 @@ Code in this repository is licensed under the GNU AFFERO GENERAL PUBLIC LICENSE.
 
 A full copy of the license can be found at [YetAnotherServerStopper/licenses/GNU AFFERO GENERAL PUBLIC LICENSE V3.txt](YetAnotherServerStopper/licenses/GNU%20AFFERO%20GENERAL%20PUBLIC%20LICENSE%20V3.txt)
 
+If these licenses don't work for you send a message. 
