@@ -1,4 +1,6 @@
 - Variable support for time to close the server
 - Variable for amount of times to check before closing
 - Test more versions of minecraft and add as supported versions in mcpack
-- Upload to Modrinth, planetminecraft etc.
+- compatibility table with versions and links
+- look at support for not counting afk players leveraging afk mods/plugins
+- command to keep alive for longer time /stayalive 6 hours

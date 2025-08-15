@@ -8,6 +8,7 @@ Links
 ───────
 Github: https://github.com/BenjaminEwe
 Repository: https://github.com/BenjaminEwe/YetAnotherEmptyServerStopper
+Modrinth: https://modrinth.com/datapack/yetanotheremptyserverstopper
 
 ───────
 License

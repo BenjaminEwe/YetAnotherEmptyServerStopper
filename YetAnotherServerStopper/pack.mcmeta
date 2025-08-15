@@ -1,11 +1,10 @@
 {
-    "id": "pk.items_filter",
     "pack": {
+        "description": "YetAnotherEmptyServerStopper (YAESS) for Minecraft",
         "pack_format": 48,
         "supported_formats": {
             "min_inclusive": 48,
-            "max_inclusive": 48
+            "max_inclusive": 81
         },
-        "description": "YetAnotherEmptyServerStopper (YAESS) for Minecraft"
     }
 }
